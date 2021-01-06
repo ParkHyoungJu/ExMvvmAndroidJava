@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ExMvvmJava</string>
+
+    <string name="title_alert">알림</string>
+    <string name="btn_confirm">확인</string>
+    <string name="btn_yes">예</string>
+    <string name="btn_no">아니오</string>
+
+    <string name="api_server_error">서버에러</string>
+</resources>
